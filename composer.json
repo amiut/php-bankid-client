@@ -1,0 +1,13 @@
+{
+    "name": "amiut/bankid-client",
+    "description": "bankID client for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amin A. Rezapour",
+            "email": "amin.pe94@gmail.com"
+        }
+    ],
+    "require": {}
+}
